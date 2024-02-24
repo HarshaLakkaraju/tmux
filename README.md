@@ -1,6 +1,6 @@
 # tmux
 
-# prefix -> ctrl + space
+### prefix -> ctrl + space
 
 # README: Setting up tmux with Nerd Font and TPM Plugins
 
