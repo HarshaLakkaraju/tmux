@@ -1,10 +1,10 @@
 # tmux
 
-### prefix -> ctrl + space
+default prefix -> ctrl + b
+
+custom prefix -> ctrl + space
 
 # README: Setting up tmux with Nerd Font and TPM Plugins
-
-
 
 ## Introduction
 This guide will help you set up tmux, a terminal multiplexer, with Nerd Font for enhanced symbol support and TPM (Tmux Plugin Manager) for easy plugin management.
@@ -17,6 +17,22 @@ Before proceeding, make sure you have the following installed:
 
 ## Installation
 
+### linux installation 
+
+#### Debian-based (e.g., Debian, Ubuntu):
+```bash
+sudo apt update
+sudo apt install tmux
+```
+#### Arch Linux:
+```bash
+sudo pacman -Sy tmux
+```
+#### Fedora:
+```bash
+
+sudo dnf install tmux
+```
 ### Nerd Font Setup
 1. Install Nerd Font (Agave) on your system.
 2. Set Nerd Font (Agave) as your default font in your terminal emulator.
@@ -31,7 +47,7 @@ Before proceeding, make sure you have the following installed:
 1. After editing `~/.tmux.conf`, execute the configuration changes:
    ```bash
    tmux source ~/.tmux.conf
-   ``
+   ```
 
 ## TPM Plugins
 
@@ -69,5 +85,5 @@ Before proceeding, make sure you have the following installed:
 
 ## Conclusion
 You have successfully set up tmux with Nerd Font and TPM plugins. Enjoy the enhanced terminal multiplexing experience!
-```
+
 
