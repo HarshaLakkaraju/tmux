@@ -36,7 +36,19 @@ Before proceeding, make sure you have the following installed:
 ## TPM Plugins
 
 ### List of Plugins
-- `tmux-sensible`: A set of sensible defaults for tmux.
+- [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm)
+- [2kabhishek/tmux2k](https://github.com/2kabhishek/tmux2k)
+- [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible)
+- [tmux-plugins/tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar)
+- [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus)
+- [tmux-plugins/tmux-open](https://github.com/tmux-plugins/tmux-open)
+- [tmux-plugins/tmux-copycat](https://github.com/tmux-plugins/tmux-copycat)
+- [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank)
+- [charlietag/tmux-split-statusbar](https://github.com/charlietag/tmux-split-statusbar)
+- [schasse/tmux-jump](https://github.com/schasse/tmux-jump)
+- [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
+- [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)
+
   
 ### Installing Plugins
 1. Add the desired plugin to `~/.tmux.conf` with:
