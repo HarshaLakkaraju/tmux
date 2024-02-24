@@ -1,9 +1,10 @@
 # tmux
 
+# prefix -> ctrl + space
 
 # README: Setting up tmux with Nerd Font and TPM Plugins
 
-#prefix -> ctrl + space
+
 
 ## Introduction
 This guide will help you set up tmux, a terminal multiplexer, with Nerd Font for enhanced symbol support and TPM (Tmux Plugin Manager) for easy plugin management.
