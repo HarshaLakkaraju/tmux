@@ -20,15 +20,15 @@ Before proceeding, make sure you have the following installed:
 
 ### TPM Installation
 1. Clone TPM repository:
-   
+   '''bash
    git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-   
+   '''
 
 ### Executing Configuration
 1. After editing `~/.tmux.conf`, execute the configuration changes:
    ```bash
    tmux source ~/.tmux.conf
-   ```
+   ``'
 
 ## TPM Plugins
 
