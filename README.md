@@ -1,7 +1,6 @@
 # tmux
 
 
-```bash
 # README: Setting up tmux with Nerd Font and TPM Plugins
 
 ## Introduction
@@ -21,9 +20,9 @@ Before proceeding, make sure you have the following installed:
 
 ### TPM Installation
 1. Clone TPM repository:
-   ```
+   
    git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-   ```
+   
 
 ### Executing Configuration
 1. After editing `~/.tmux.conf`, execute the configuration changes:
@@ -41,6 +40,7 @@ Before proceeding, make sure you have the following installed:
    ```bash
    set -g @plugin 'tmux-plugins/tmux-sensible'
    ```
+   
 2. Press `prefix` + `I` to fetch and install the plugin.
 
 ### Uninstalling Plugins
@@ -55,3 +55,4 @@ Before proceeding, make sure you have the following installed:
 ## Conclusion
 You have successfully set up tmux with Nerd Font and TPM plugins. Enjoy the enhanced terminal multiplexing experience!
 ```
+
