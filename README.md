@@ -34,7 +34,7 @@ sudo pacman -Sy tmux
 sudo dnf install tmux
 ```
 ### Nerd Font Setup
-1. Install Nerd Font (Agave) on your system.
+1. Install [Nerd Font (Agave)](https://www.nerdfonts.com/font-downloads) on your system.
 2. Set Nerd Font (Agave) as your default font in your terminal emulator.
 
 ### TPM Installation
